@@ -1,4 +1,4 @@
-> **ICU Requirement Prediction for COVID-19 Patients in Brazil**
+-- **ICU Requirement Prediction for COVID-19 Patients in Brazil**
 This is the web deployment of the ICU requirement prediction model for COVID-19 patients in Brazil. You can access the web application here: ICU Requirement Prediction
 
 **About**
