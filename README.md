@@ -12,27 +12,6 @@ The dataset comprises records of COVID-19 patients and includes the following at
 Sex: Male or Female (Nominal)
 Age: Age of the patient (Continuous)
 
-### **Medical History:**
-Pre-existing Conditions:
-Diabetes: Whether the patient has diabetes (Nominal)
-Hypertension: Whether the patient has hypertension (Nominal)
-Cardiovascular Disease: Whether the patient has any cardiovascular disease (Nominal)
-Respiratory Disease: Whether the patient has any respiratory disease (Nominal)
-Cancer: Whether the patient has cancer (Nominal)
-Obesity: Whether the patient is obese (Nominal)
-Current Health Status:
-Symptoms and Vital Signs:
-Fever: Whether the patient has a fever (Nominal)
-Cough: Whether the patient has a cough (Nominal)
-Shortness of Breath: Whether the patient experiences shortness of breath (Nominal)
-Oxygen Saturation: Oxygen saturation level (Continuous)
-Heart Rate: Heart rate (Continuous - Considered continuous due to a large number of possible values)
-Blood Pressure:
-Systolic BP: Systolic blood pressure (Continuous)
-Diastolic BP: Diastolic blood pressure (Continuous)
-Predict Variable (Desired Target):
-ICU Admission: Whether the patient requires ICU admission (Binary: "1" means "Yes", "0" means "No")
-
 ## **Methodology**
 1. Data Preprocessing:
 2. Handling missing values
@@ -49,4 +28,4 @@ Evaluation Metrics:
 - F1 Score
 - ROC-AUC
 
-The dataset used in this project can be found on Kaggle: Brazil COVID-19 Dataset
+The dataset used in this project can be found on Kaggle: [Brazil COVID-19 Dataset](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) 
